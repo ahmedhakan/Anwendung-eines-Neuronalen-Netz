@@ -40,16 +40,15 @@ Der **Palmer Penguins**-Datensatz enthält Beobachtungen von drei Pinguinarten (
 - Seaborn, Matplotlib  
 - Scikit-learn  
 
-## 🚀 Ausführen
+![image](https://github.com/user-attachments/assets/dd7344dc-b323-4b40-977b-91cea4c8b351)
 
-1. Notebook öffnen: `Projektarbeit_AhmedHakanDemirtas.ipynb`  
-2. Alle Zellen ausführen  
-3. Ergebnisse, Visualisierungen und Modellgenauigkeit analysieren  
 
 ![image](https://github.com/user-attachments/assets/2fa2347e-a5fb-4aa5-be60-a21f48d7cb94)
 
 
-## 🧑‍🎓 Autor
+![image](https://github.com/user-attachments/assets/3ad8517d-c8ea-43a0-b495-7bce651d186e)
+
+
+
 
 **Ahmed Hakan Demirtaş**  
-Projektarbeit im Rahmen einer Weiterbildung im Bereich Data Science / Machine Learning.
