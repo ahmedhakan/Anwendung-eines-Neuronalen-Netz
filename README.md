@@ -46,6 +46,9 @@ Der **Palmer Penguins**-Datensatz enthält Beobachtungen von drei Pinguinarten (
 2. Alle Zellen ausführen  
 3. Ergebnisse, Visualisierungen und Modellgenauigkeit analysieren  
 
+![image](https://github.com/user-attachments/assets/2fa2347e-a5fb-4aa5-be60-a21f48d7cb94)
+
+
 ## 🧑‍🎓 Autor
 
 **Ahmed Hakan Demirtaş**  
